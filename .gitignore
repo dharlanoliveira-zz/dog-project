@@ -2,7 +2,6 @@
 __MACOSX/
 __pycache__/
 dogImages/
-my_photos/
 lfw/
 saved_models
 .ipynb_checkpoints/
